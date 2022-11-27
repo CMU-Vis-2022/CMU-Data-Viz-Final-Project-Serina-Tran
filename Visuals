@@ -1,4 +1,6 @@
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import notebook from "https://observablehq.com/d/c21fc685b1adfb8f"
+
+import notebook from "https://observablehq.com/d/c21fc685b1adfb8f";
+
 const runtime = new Runtime();
 const main = runtime.module(notebook, Inspector.into(document.body));
