@@ -4,9 +4,11 @@ Project Title: Crypto Bubbles: How People’ Emotions Lead To Their Downfalls
 
 Team member: Serina Tran
 
+
+Link to application/webpage:
 https://observablehq.com/d/c21fc685b1adfb8f@590
 
-View this notebook in your browser by running a web server in this folder. For
+View this in your browser by running a web server in this folder. For
 example:
 
 ~~~sh
