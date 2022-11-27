@@ -1,0 +1,14 @@
+{
+  "name": "c21fc685b1adfb8f",
+  "main": "c21fc685b1adfb8f@590.js",
+  "version": "590.0.0",
+  "homepage": "https://observablehq.com/d/c21fc685b1adfb8f",
+  "author": {
+    "name": "Serina Tran",
+    "url": "https://observablehq.com/@unika00"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
