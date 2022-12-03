@@ -1,10 +1,9 @@
 # Data Visualization Final Project
 
-![lol](https://user-images.githubusercontent.com/112581692/205417491-c73cf581-00b5-4c5e-9060-e76b92a99e3b.jpeg)
-
 Project Title: Crypto Bubbles: How People’ Emotions Lead To Their Downfalls
-
 Team member: Serina Tran
+
+![lol](https://user-images.githubusercontent.com/112581692/205417491-c73cf581-00b5-4c5e-9060-e76b92a99e3b.jpeg)
 
 Abstract: Cryptocurrency has arguably been the most active topic in the past half of the decade, equally on the financial markets and in the general media. By 2022, stories about an overnight teenage millionaire on one day and a major company going bankrupt the next day, both due to cryptocurrency, have become common news. Despite financial experts’ general consensus of cryptocurrency being an extremely risky investment, millions of people around the world continue to pour their savings into numerous trading platforms. The goal of this project is to investigate on why so many people risk their financial livelihood for this notoriously volatile instrument. In particular, the project aims to see what historical datasets can reveal about the motivations behind modern crypto trading and how to approach mitigating trading risk. For this project, I utilize datasets on five popular coins and on crypto fear and greed index. Using these datasets, I create relevant interactive visualizations that help me reveal characteristics that are particular to cryptocurrency. The contributions to the project includes: Five (5) interactive line charts that supports pinpointing the exact market capitalization of a crypto coin on a particular day; An (1) area chart that supports depicting the market’s fear and greed index over the months.
 
