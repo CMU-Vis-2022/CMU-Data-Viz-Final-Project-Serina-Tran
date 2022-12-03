@@ -1,5 +1,7 @@
 # Data Visualization Final Project
 
+![lol](https://user-images.githubusercontent.com/112581692/205417491-c73cf581-00b5-4c5e-9060-e76b92a99e3b.jpeg)
+
 Project Title: Crypto Bubbles: How People’ Emotions Lead To Their Downfalls
 
 Team member: Serina Tran
