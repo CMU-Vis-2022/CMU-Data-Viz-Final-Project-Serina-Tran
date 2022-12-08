@@ -16,6 +16,10 @@ https://docs.google.com/document/d/1XMP6e4LHUt-cN0KshEd1MZvFXqzLvOkUMZXUA4cOHsQ/
 Link to application/webpage:
 https://observablehq.com/d/c21fc685b1adfb8f@590
 
+Video:
+
+https://user-images.githubusercontent.com/112581692/206356525-3431eb10-2e18-42ed-8b78-0ee9bbd4adc6.mp4
+
 View this in your browser by running a web server in this folder. For
 example:
 
